@@ -1,0 +1,1 @@
+I have being doing some UVa questions that appeared in the famous Competitive Programming book and realized I should save my ideas for future reference. I'm no where near being good in cp, but I'm doing my best. 
